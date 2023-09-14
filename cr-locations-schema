@@ -1,0 +1,181 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CommunityHealth",
+  "name": "CedarRecovery",
+  "image": "",
+  "@id": "https://www.cedarrecovery.com/#CedarRecovery",
+  "url": "https://www.cedarrecovery.com",
+  "telephone": "",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2525 Perimeter Place Dr. Suite 105",
+    "addressLocality": "Nashville",
+    "addressRegion": "TN",
+    "postalCode": "37214",
+    "addressCountry": "US"
+  }  
+}
+</script>
+
+<script>
+
+// Your existing JavaScript code here
+
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CommunityHealth",
+  "name": "Cedar Recovery",
+  "image": "",
+  "@id": "",
+  "url": "https://www.cedarrecovery.com",
+  "telephone": "+18007991450",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2636 N Mt Juliet Rd",
+    "addressLocality": "Mt. Juliet",
+    "addressRegion": "TN",
+    "postalCode": "37122",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 36.206630,
+    "longitude": -86.519470
+  },
+  "openingHoursSpecification": {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "opens": "08:30",
+    "closes": "17:00"
+  },
+  "sameAs": [
+    "https://www.facebook.com/cedarrecovery",
+    "https://www.twitter.com/cedarrecovery",
+    "https://www.instagram.com/cedarrecovery"
+  ],
+  "department": [
+    {
+      "@type": "CommunityHealth",
+      "name": "Athens",
+      "image": "https://res.cloudinary.com/storepointimages/image/upload/v1687168341/location_images/sebylrak96htbli5gtyd.jpg",
+      "telephone": "423-717-2240",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "17 W Madison Ave",
+        "addressLocality": "Athens",
+        "addressRegion": "TN",
+        "postalCode": "37303",
+        "addressCountry": "US"
+      }
+    },
+    {
+      "@type": "CommunityHealth",
+      "name": "Columbia",
+      "image": "https://res.cloudinary.com/storepointimages/image/upload/v1687168420/location_images/ypgtvwozl5jusnin04u9.jpg",
+      "telephone": "931-548-8882",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "1512 Hatcher Ln",
+        "addressLocality": "Columbia",
+        "addressRegion": "TN",
+        "postalCode": "38401",
+        "addressCountry": "US"
+      }
+    },
+    {
+      "@type": "CommunityHealth",
+      "name": "Cookeville",
+      "image": "https://res.cloudinary.com/storepointimages/image/upload/v1687168432/location_images/awykpr0hanyoh8fqjqzo.jpg",
+      "telephone": "931-284-4814",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "1225 S Willow Ave Suite 102",
+        "addressLocality": "Cookeville",
+        "addressRegion": "TN",
+        "postalCode": "38506",
+        "addressCountry": "US"
+      }
+    },
+    {
+      "@type": "CommunityHealth",
+      "name": "Knoxville East",
+      "image": "https://res.cloudinary.com/storepointimages/image/upload/v1687168254/location_images/q5mlio2kemxo0vf8zv01.jpg",
+      "telephone": "865-932-3633",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "8712 Asheville Hwy",
+        "addressLocality": "Knoxville",
+        "addressRegion": "TN",
+        "postalCode": "37924",
+        "addressCountry": "US"
+      }
+    },
+    {
+      "@type": "CommunityHealth",
+      "name": "Knoxville South",
+      "image": "https://res.cloudinary.com/storepointimages/image/upload/v1687168191/location_images/kovd8gnhclst9uy08tq7.jpg",
+      "telephone": "865-298-3558",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "2805 W Governor John Sevier Hwy",
+        "addressLocality": "Knoxville",
+        "addressRegion": "TN",
+        "postalCode": "37920",
+        "addressCountry": "US"
+      }
+    },
+    {
+      "@type": "CommunityHealth",
+      "name": "Lebanon",
+      "image": "https://res.cloudinary.com/storepointimages/image/upload/v1687168408/location_images/rshvasm0oirh89vivnst.jpg",
+      "telephone": "615-994-1288",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "1405 West Baddour Parkway, Suite 101",
+        "addressLocality": "Lebanon",
+        "addressRegion": "TN",
+        "postalCode": "37087",
+        "addressCountry": "US"
+      }
+    },
+    {
+      "@type": "CommunityHealth",
+      "name": "Nashville",
+      "image": "https://res.cloudinary.com/storepointimages/image/upload/v1689612896/location_images/xqtfddhtyiwa4uvfifhc.jpg",
+      "telephone": "615-680-0110",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "2525 Perimeter Place Dr. Suite 105",
+        "addressLocality": "Nashville",
+        "addressRegion": "TN",
+        "postalCode": "37214",
+        "addressCountry": "US"
+      }
+    },
+    {
+      "@type": "CommunityHealth",
+      "name": "Shelbyville",
+      "image": "https://res.cloudinary.com/storepointimages/image/upload/v1687168362/location_images/yg23iwkpehoti0ebuiz2.jpg",
+      "telephone": "931-488-4014",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "2839 Highway 231 North, Suite 105",
+        "addressLocality": "Shelbyville",
+        "addressRegion": "TN",
+        "postalCode": "37160",
+        "addressCountry": "US"
+      }
+    }
+  ]
+}
+</script>
